@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/BizTecBritain">
-    <img src="https://github.com/BizTecBritain/blob/main/BizTec.png" alt="Logo" width="580" height="300">
+    <img src="https://github.com/BizTecBritain/BizTec.png" alt="Logo" width="580" height="300">
   </a>
 
   <h3 align="center">Wordle Solver</h3>
