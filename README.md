@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Alexander Bisland - Twitter: [@BizTecBritain](https://twitter.com/BizTecBritain) - Email: BizTecBritain@gmail.com
 
-Project Link: [https://github.com/BizTecBritain/YouTube-Channel-Name-Counter](https://github.com/BizTecBritain/Wordle-Solver) 
+Project Link: [https://github.com/BizTecBritain/Wordle-Solver](https://github.com/BizTecBritain/Wordle-Solver) 
 
 
 
